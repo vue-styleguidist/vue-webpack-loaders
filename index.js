@@ -12,7 +12,7 @@ module.exports = [
 	{
 		test: /\.js$/,
 		exclude: /node_modules/,
-		loader: 'babel-loader',
+		loader: 'babel-loader?cacheDirectory=true',
 		options: {
 			"presets": [
 				["env", { "modules": false }],
@@ -26,10 +26,6 @@ module.exports = [
 					"plugins": [ "istanbul" ]
 				}
 			}
-		},
-		query: {
-			babelrc: false,
-			cacheDirectory: true,
 		}
 	},
 	{
