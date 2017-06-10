@@ -1,5 +1,7 @@
 # Basic Webpack loaders for Vue apps
 
+[![npm](https://img.shields.io/npm/v/vue-webpack-loaders.svg)](https://www.npmjs.com/package/vue-webpack-loaders)
+
 Basic Vue Webpack loaders:
 
 * `vue-loader`
