@@ -1,11 +1,8 @@
 {
   "name": "vue-webpack-loaders",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Basic Webpack loaders for Vue apps",
   "main": "index.js",
-  "files": [
-    "index.js"
-  ],
   "scripts": {
     "test": "mocha -c index.spec.js"
   },
