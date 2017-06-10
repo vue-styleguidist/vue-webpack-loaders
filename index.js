@@ -1,6 +1,6 @@
 // Based on vue-cli
 // https://github.com/vuejs/vue-cli
-var vueLoaderConfig = require('./vue-loader.conf')
+var vueLoaderConfig = require('./lib/vue-loader.conf')
 
 module.exports = [
 	{
