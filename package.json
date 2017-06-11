@@ -44,7 +44,7 @@
     "vue-style-loader": "^3.0.1",
     "css-loader": "^0.28.4",
     "file-loader": "^0.11.2",
-    "babel-loader": "^7.0.0",
+    "babel-loader": "^7.0.0"
   },
   "peerDependencies": {
     "webpack": "1 || 2"
