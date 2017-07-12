@@ -1,6 +1,6 @@
 {
   "name": "vue-webpack-loaders",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Basic Webpack loaders for Vue apps",
   "main": "index.js",
   "scripts": {
@@ -45,9 +45,6 @@
     "css-loader": "^0.28.4",
     "file-loader": "^0.11.2",
     "babel-loader": "^7.0.0"
-  },
-  "peerDependencies": {
-    "webpack": "1 || 2"
   },
   "browserslist": [
     "> 1%",
