@@ -1,6 +1,6 @@
 {
   "name": "vue-webpack-loaders",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Basic Webpack loaders for Vue apps",
   "main": "index.js",
   "scripts": {
