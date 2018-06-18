@@ -29,22 +29,22 @@
     "mocha": "^3.4.2"
   },
   "dependencies": {
-    "vue": "^2.4.2",
+    "vue": "^2.5.16",
     "babel-plugin-transform-runtime": "^6.23.0",
     "babel-preset-env": "^1.5.2",
     "babel-preset-stage-2": "^6.24.1",
     "extract-text-webpack-plugin": "^3.0.0",
-    "json-loader": "^0.5.4",
-    "postcss-loader": "^2.0.5",
+    "json-loader": "^0.5.7",
+    "postcss-loader": "^2.0.8",
     "style-loader": "^0.18.2",
-    "url-loader": "^0.5.8",
-    "vue-loader": "^13.0.4",
+    "url-loader": "^1.0.1",
+    "vue-loader": "^15.2.4",
     "html-webpack-plugin": "^2.30.1",
-    "vue-template-compiler": "^2.4.2",
+    "vue-template-compiler": "^2.5.16",
     "vue-style-loader": "^3.0.1",
-    "css-loader": "^0.28.4",
+    "css-loader": "^0.28.11",
     "file-loader": "^0.11.2",
-    "babel-loader": "^7.0.0"
+    "babel-loader": "^7.1.4"
   },
   "browserslist": [
     "> 1%",
